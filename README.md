@@ -1,6 +1,6 @@
 # search_list_from_api
 
-Flutter project with Search data api
+Flutter project
 
 ## Getting Started
 
